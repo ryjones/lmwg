@@ -1,6 +1,6 @@
-site_name: Hyperledger Cello
-repo_name: 'hyperledger/cello'
-repo_url: 'https://github.com/hyperledger/cello'
+site_name: LMWG
+repo_name: 'ryjones/lmwg'
+repo_url: 'https://github.com/ryjones/lmwg'
 theme:
     name: 'material'
     logo: 'images/favicon.png'
@@ -67,11 +67,3 @@ nav:
         - faq.md
     - Release Notes:
         - release_note.md
-#plugins:
-#  - search
-#  - minify:
-#      minify_html: true
-#  - pdf-export:
-#      media_type: print
-#      combined: true
-#      enabled_if_env: ENABLE_PDF_EXPORT
