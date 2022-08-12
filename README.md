@@ -1,9 +1,9 @@
-\[go here\](<https://ryjones.github.io/lmwg/>)
+[go here](https://ryjones.github.io/lmwg/)
 
 ReadtheDocs POC for Hyperledger Projects:
 =======================================
 
-![Alternative text](https://github.com/ryjones/lmwg/blob/bfdf816643305a94da487f84f1d6d11071d01ce3/POC%20part%201.png){width="800px"}
+![Alternative text](https://raw.githubusercontent.com/ryjones/lmwg/main/POC%20part%201.png)
 
 This GitHub Repo was created for developing a template through a POC
 (Proof of Concept) of ReadtheDocs functionality for Hyperledger
@@ -12,8 +12,6 @@ to the documentation page ReStructured Text Syntax was utilized to test
 image-based button linking
 
 See my POC Tutorial here:
-
-<https://read-the-docs-sphinx-project.readthedocs.io/en/latest/>?
 
 Hyperledger documentation on ReadtheDocs is populated by files from the
 various Hyperledger project GitHub pages Those GitHub pages are synced
